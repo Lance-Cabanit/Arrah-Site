@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.380c682b.css",
-    "main.js": "/static/js/main.1e1d24ff.js",
+    "main.js": "/static/js/main.ccdeafdd.js",
     "static/js/453.c7b07739.chunk.js": "/static/js/453.c7b07739.chunk.js",
     "static/media/four.svg": "/static/media/four.bd70304d5c1d04da32e60413fdfadfea.svg",
     "static/media/darling.png": "/static/media/darling.be2e9e964e129cb1f706.png",
+    "static/media/Grace.png": "/static/media/Grace.e4b6c1be050e3f729648.png",
     "static/media/three.svg": "/static/media/three.e7994ba3f5ac40c49e54d43df2db02c9.svg",
     "static/media/yeltsin.png": "/static/media/yeltsin.e55c7aacd8c076f35ce0.png",
     "static/media/placeholder.png": "/static/media/placeholder.3fcbbdcd05f3e458d129.png",
@@ -51,7 +52,6 @@
     "static/media/purpleTheme-boy.svg": "/static/media/purpleTheme-boy.a66d83297ccecd923cf28a2bda544157.svg",
     "static/media/yellowTheme-boy.svg": "/static/media/yellowTheme-boy.4579de4e8f6347f7b662128566c961a9.svg",
     "static/media/deno.svg": "/static/media/deno.04aa2c4dc756e5c4e0b671aed1a69491.svg",
-    "static/media/girl3.svg": "/static/media/girl3.fab93fe004679be8a863c58133061dc8.svg",
     "static/media/boy3.svg": "/static/media/boy3.c8e44bab49564f7e3a621134884e236f.svg",
     "static/media/postgresql.svg": "/static/media/postgresql.f0f3d0b9f02ed22418fc182be982a49c.svg",
     "static/media/ruby.svg": "/static/media/ruby.775cc228863c290a34668762dc1b1ac1.svg",
@@ -144,11 +144,11 @@
     "static/media/vue.svg": "/static/media/vue.5f5d16894e0a3def9502734973eb8eb5.svg",
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "main.380c682b.css.map": "/static/css/main.380c682b.css.map",
-    "main.1e1d24ff.js.map": "/static/js/main.1e1d24ff.js.map",
+    "main.ccdeafdd.js.map": "/static/js/main.ccdeafdd.js.map",
     "453.c7b07739.chunk.js.map": "/static/js/453.c7b07739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.380c682b.css",
-    "static/js/main.1e1d24ff.js"
+    "static/js/main.ccdeafdd.js"
   ]
 }
