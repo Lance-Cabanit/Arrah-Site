@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.380c682b.css",
-    "main.js": "/static/js/main.0ebc6987.js",
+    "main.js": "/static/js/main.d0b467f0.js",
     "static/js/453.c7b07739.chunk.js": "/static/js/453.c7b07739.chunk.js",
     "static/media/four.svg": "/static/media/four.bd70304d5c1d04da32e60413fdfadfea.svg",
     "static/media/darling.png": "/static/media/darling.be2e9e964e129cb1f706.png",
@@ -17,6 +17,9 @@
     "static/media/expPink.svg": "/static/media/expPink.ac1de145943281e48101635d936e07a1.svg",
     "static/media/expPurple.svg": "/static/media/expPurple.c054e7936866e05307edbf7a6d27ddde.svg",
     "static/media/expYellow.svg": "/static/media/expYellow.cff6e7009ac8cce0c8806daff98c4c87.svg",
+    "static/media/Charlyn.png": "/static/media/Charlyn.997d0242e6ddff40ea7d.png",
+    "static/media/Xerk.png": "/static/media/Xerk.36426b78e2380d00e66d.png",
+    "static/media/Sarah.png": "/static/media/Sarah.0df4d62839eb16802a86.png",
     "static/media/five.svg": "/static/media/five.3fc9b49ee74629fae905840057830500.svg",
     "static/media/seven.svg": "/static/media/seven.d5cabb8e4cedec31fdf59721d8a6fe76.svg",
     "static/media/resume.pdf": "/static/media/resume.c16ae907cc1e15d0b64a.pdf",
@@ -52,7 +55,6 @@
     "static/media/purpleTheme-boy.svg": "/static/media/purpleTheme-boy.a66d83297ccecd923cf28a2bda544157.svg",
     "static/media/yellowTheme-boy.svg": "/static/media/yellowTheme-boy.4579de4e8f6347f7b662128566c961a9.svg",
     "static/media/deno.svg": "/static/media/deno.04aa2c4dc756e5c4e0b671aed1a69491.svg",
-    "static/media/boy3.svg": "/static/media/boy3.c8e44bab49564f7e3a621134884e236f.svg",
     "static/media/postgresql.svg": "/static/media/postgresql.f0f3d0b9f02ed22418fc182be982a49c.svg",
     "static/media/ruby.svg": "/static/media/ruby.775cc228863c290a34668762dc1b1ac1.svg",
     "static/media/eduOrange.svg": "/static/media/eduOrange.0793a40dd975bc4acbc54d9e7326a45d.svg",
@@ -63,8 +65,6 @@
     "static/media/eduGreen.svg": "/static/media/eduGreen.3fe155447d7d12afc637edc0933c8d8e.svg",
     "static/media/eduRed.svg": "/static/media/eduRed.a44e7ceb112491b148af6a5e5ddda8f2.svg",
     "static/media/eduBlack.svg": "/static/media/eduBlack.bffa14bd34a2eb344e3c96c98bfe2d28.svg",
-    "static/media/boy2.svg": "/static/media/boy2.d2bee547faf13473fd711680bff19b1e.svg",
-    "static/media/boy1.svg": "/static/media/boy1.212337995fd50f08ed1bcde8c03a1874.svg",
     "static/media/gimp.svg": "/static/media/gimp.e90f970a378c4672ac8a3bd5698edb64.svg",
     "static/media/memsql.svg": "/static/media/memsql.6bfaf0ce6d5a42e58e08e01fd0d7f3ec.svg",
     "static/media/aws.svg": "/static/media/aws.ef6fb669b0a703b10cc24325ad455240.svg",
@@ -144,11 +144,11 @@
     "static/media/vue.svg": "/static/media/vue.5f5d16894e0a3def9502734973eb8eb5.svg",
     "static/media/vuetifyjs.svg": "/static/media/vuetifyjs.3848fcff351a0cbc94e75362594d2b25.svg",
     "main.380c682b.css.map": "/static/css/main.380c682b.css.map",
-    "main.0ebc6987.js.map": "/static/js/main.0ebc6987.js.map",
+    "main.d0b467f0.js.map": "/static/js/main.d0b467f0.js.map",
     "453.c7b07739.chunk.js.map": "/static/js/453.c7b07739.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.380c682b.css",
-    "static/js/main.0ebc6987.js"
+    "static/js/main.d0b467f0.js"
   ]
 }
